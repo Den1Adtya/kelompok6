@@ -1,0 +1,30 @@
+/* font external link */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+.image-login {
+    background-image: url('https://wallpaperaccess.com/full/8351161.gif');
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+}
+.login {
+    font-family: 'Roboto',sans-serif;
+    font-weight: bold;
+}
+.image-register {
+    background-image: url('https://wallpaperaccess.com/full/6581883.gif');
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+}
+.image {
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+}
+.w-30-percent {
+    width: 30%;
+}
+.h-90-percent {
+    height: 90%;
+}
